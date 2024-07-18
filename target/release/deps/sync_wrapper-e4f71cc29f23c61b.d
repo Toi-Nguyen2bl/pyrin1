@@ -1,0 +1,7 @@
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/libsync_wrapper-e4f71cc29f23c61b.rmeta: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sync_wrapper-0.1.1/src/lib.rs
+
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/libsync_wrapper-e4f71cc29f23c61b.rlib: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sync_wrapper-0.1.1/src/lib.rs
+
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/sync_wrapper-e4f71cc29f23c61b.d: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sync_wrapper-0.1.1/src/lib.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sync_wrapper-0.1.1/src/lib.rs:

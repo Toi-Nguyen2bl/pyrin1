@@ -1,0 +1,12 @@
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/libprost-e1dab157a8c1a5d3.rmeta: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/libprost-e1dab157a8c1a5d3.rlib: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/pc/huongnd/pyrin_git/pyrin_miner/target/release/deps/prost-e1dab157a8c1a5d3.d: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md:
